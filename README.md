@@ -4,7 +4,7 @@ This is an HTML-CSS-MySQL-Website.
 
 Features :
 
--Login and create and account interface 
+-Log in and create an account interface .
 
 
 
