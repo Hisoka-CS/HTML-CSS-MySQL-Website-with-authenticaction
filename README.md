@@ -1,6 +1,6 @@
 # HTML-CSS-MySQL-Website-with-authenticaction
 
-This is a HTML-CSS-MySQL-Website.
+This is an HTML-CSS-MySQL-Website.
 
 Features :
 
