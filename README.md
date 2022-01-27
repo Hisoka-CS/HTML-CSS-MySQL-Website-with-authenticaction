@@ -1,4 +1,4 @@
-# HTML-CSS-MySQL-Website-with-authenticaction
+# HTML-CSS-MySQL-Website-with-authentication
 
 This is an HTML-CSS-MySQL-Website.
 
